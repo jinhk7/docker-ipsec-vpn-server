@@ -4,6 +4,8 @@
 
 详细信息查看： #191[https://github.com/hwdsl2/docker-ipsec-vpn-server/issues/191]
 
+请参考这个[点我]https://github.com/hwdsl2/docker-ipsec-vpn-server/blob/master/docs/advanced-usage.md#build-from-source-code 进行镜像构建
+
 [English](README.md) | [中文](README-zh.md)
 
 # Docker 上的 IPsec VPN 服务器

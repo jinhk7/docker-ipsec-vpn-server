@@ -4,6 +4,8 @@ This repositior only for testing use.
 
 Follow the issue #191[https://github.com/hwdsl2/docker-ipsec-vpn-server/issues/191]
 
+Please refer to this [click-me]https://github.com/hwdsl2/docker-ipsec-vpn-server/blob/master/docs/advanced-usage.md#build-from-source-code for image build.
+
 [English](README.md) | [中文](README-zh.md)
 
 # IPsec VPN Server on Docker
