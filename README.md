@@ -1,3 +1,9 @@
+# Enable L2TP without IPsec for some routers use.
+
+This repositior only for testing use.
+
+Follow the issue #191[https://github.com/hwdsl2/docker-ipsec-vpn-server/issues/191]
+
 [English](README.md) | [中文](README-zh.md)
 
 # IPsec VPN Server on Docker

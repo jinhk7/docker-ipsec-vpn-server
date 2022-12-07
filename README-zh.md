@@ -1,8 +1,8 @@
-# Enable L2TP without IPsec for some routers use.
+# 开启L2TP VPN 且不用IPsec加密
 
-This repositior only for testing use.
+这个仓库仅用于测试
 
-Follow the issue #191[https://github.com/hwdsl2/docker-ipsec-vpn-server/issues/191]
+详细信息查看： #191[https://github.com/hwdsl2/docker-ipsec-vpn-server/issues/191]
 
 [English](README.md) | [中文](README-zh.md)
 
